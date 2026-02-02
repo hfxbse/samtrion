@@ -8,21 +8,22 @@ context:
 helpful-links:
 - https://github.com/ikatyang/emoji-cheat-sheet
 -->
+
 # Hi :wave:, I'm Martin
+
 ---
 
-I'm a multi-talented professional with a strong background in software development, enterprise architecture, and technology consulting. I'm passionate about using technology to drive innovation and deliver high quality solutions that meet the needs of both customers and users. My expertise spans a wide range of domains, including cloud computing, DevOps, and software engineering, particularly in the .NET ecosystem.
+I'm a **CTO at [Integrated Worlds GmbH](https://www.integratedworlds.com/)** with nearly 20 years shipping .NET systems. I've built things that work, broken things that seemed clever, and learned the hard way which lessons actually stick.
 
-I may be the typical *nerd* who loves to code, but I'm also a team player who enjoys working with others to solve complex problems and achieve common goals. I'm always eager to learn new things and keep up with the latest technologies and trends in the technology industry. My commitment to continuous improvement and professional development has allowed me to grow and succeed in my career.
+I lead cloud architecture on Azure while staying hands-on: code reviews, production debugging, and the consequences of my own decisions keep me honest. I'm skeptical of buzzword-driven development and allergic to cargo-cult practices. If a trend lacks substance or a pattern collapses under real load, I'll say so.
 
-I'm currently an Enterprise Architect at [CGI](https://www.cgi.com/), a leading IT and business consulting firm. In my role as Director Consulting Services, I help clients transform their business and IT landscapes by designing and implementing innovative solutions that drive digital transformation and business growth. As part of this role, I am also responsible for developing and mentoring my team members to help them reach their full potential. I'm proud to support them as a Microsoft Certified Trainer (MCT), instructor for CGI's [Risk and Cost Driven Architecture (RCDA)](https://www.cgi.com/de/de/solutions/rcda-agile-architektur), industry expert, and technology evangelist.
+Previously at [CGI](https://www.cgi.com/), I worked with enterprise teams on transformation and architecture. Now I distill those patterns into training and open-source packages that solve problems I've hit repeatedly.
 
-In addition to my work at [CGI](https://www.cgi.com/), I'm actively involved in the technology community, contributing to various open source projects on GitHub.
+My conviction: quality tooling and measurable trade-offs beat framework hype. Good-enough architecture that ships beats perfect architecture that doesn't. And the feedback loop between code and production is irreplaceable.
 
+## 📫 Connect with Me
 
-## 📫 Connect with Me  
-
-- [🌐 daily-devops.net](https://daily-devops.net/)  
+- [🌐 daily-devops.net](https://daily-devops.net/)
 - [💼 LinkedIn](https://www.linkedin.com/in/martin-stuehmer/)
 - [🦋 Bluesky](https://bsky.app/profile/samtrion.net)
 - [📧 Email](mailto:me@samtrion.net)
